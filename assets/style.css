@@ -1,0 +1,13 @@
+body {
+    background: rgb(107, 105, 105);
+}
+
+.jumbotron {
+    background-color: darkolivegreen;
+    color: whitesmoke;
+}
+
+#movies {
+    padding: 5%;
+}
+
